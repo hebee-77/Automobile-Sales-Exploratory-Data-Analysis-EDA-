@@ -14,8 +14,8 @@ The dataset used for this analysis is sourced from Kaggle. You can find the data
 
 # Project Details
 1. Data Cleaning: The initial step involves cleaning up the dataset to prepare it for analysis. This includes handling missing values, removing duplicates, and ensuring data consistency.
-2. Data Analysis: The focus of the analysis is on automobile sales that took place in the year 2020. Various aspects of the sales data are explored, including revenue, profit, highest sales across countries, monthly sales trend, frequent customers, sales distribution deal size.
-3. Visualization: The insights derived from the data analysis are visually represented using Seaborn and other visualization libraries. This includes creating plots, charts, and graphs to effectively communicate the findings.
+2. Data Analysis: The focus of the analysis is on automobile sales that took place in the year 2020. Various aspects of the sales data are explored, including revenue, profit, highest sales across countries, monthly sales trend, frequent customers, sales distribution by deal size.
+3. Visualization: The insights derived from the data analysis are visually represented using matplotlib and other visualization libraries. This includes creating plots, charts, and graphs to effectively communicate the findings.
 4. Conclusion: The project concludes with a summary of key insights and observations obtained from the EDA process.
 
 # Usage
