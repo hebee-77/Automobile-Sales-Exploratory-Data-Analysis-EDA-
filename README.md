@@ -3,7 +3,7 @@ This repository contains my Exploratory Data Analysis (EDA) project using Python
 sourced from Kaggle, utilizing google colab for coding.
 
 # Overview
-The dataset used in this project comprises approximately 3 thousand records of automobile sales spanning from 2018 t0 2020. The primary objective of the analysis is to perform EDA to gain insights into automobile sales.
+The dataset used in this project comprises approximately 3 thousand records of automobile sales spanning from 2018 to 2020. The primary objective of the analysis is to perform EDA to gain insights into automobile sales.
 
 # Data Source
 The dataset used for this analysis is sourced from Kaggle. You can find the dataset here : https://www.kaggle.com/datasets/ddosad/auto-sales-data?select=Auto+Sales+data.csv
